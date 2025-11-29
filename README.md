@@ -24,7 +24,7 @@ This folder presents a dashboard created in **Looker Studio** for an **imaginary
 
 ---
 
-## **4\. 📦 Dashboards — Classic Models**
+## **4\. 📑 Dashboards — Classic Models**
 
 This section includes two dashboards created for the Classic Models company:Product Category Profitability Dashboard and Shipment Management Dashboard
 
@@ -35,5 +35,4 @@ This section includes two dashboards created for the Classic Models company:Prod
 This repository collects my homework assignments across SQL, Excel, and Looker Studio. Each folder contains exercises, dashboards, and practice tasks I completed while learning data analytics.
 
 Feel free to explore, download, or reach out if you have questions or suggestions\!
-
 
