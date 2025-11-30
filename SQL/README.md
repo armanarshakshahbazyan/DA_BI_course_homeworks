@@ -1,4 +1,4 @@
-# **📂 QUERIS Folder**
+# **📂 SQL Folder**
 
 This folder contains **SQL queries** for my homework assignments. Each file demonstrates practical SQL skills using joins, aggregations, subqueries, and CTEs.
 
