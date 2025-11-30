@@ -19,3 +19,12 @@ JOIN orderdetails ON orders.orderNumber=orderdetails.orderNumber
 GROUP BY customers.customerName
 ORDER BY customers.customerName;
 
+
+SELECT products.productCode , products.productName , SUM(orderdetails.quantityOrdered) AS
+QUANTITY
+from products
+LEFT JOIN orderdetails on products.productCode = orderdetails.productCode
+WHERE orderdetails.quantityOrdered IS NOT NULL
+GROUP BY products.productCode , products.productName
+ORDER BY QUANTITY ASC
+LIMIT 5;
