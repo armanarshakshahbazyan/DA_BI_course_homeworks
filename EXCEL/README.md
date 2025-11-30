@@ -1,4 +1,4 @@
-# **📊 Excel — Marketing Campaign Dashboards**
+# **📊 Excel **
 
 This folder contains **Excel files** for marketing campaign analysis. Each file demonstrates practical Excel skills including dashboards, pivot tables, and advanced functions.
 

@@ -1,4 +1,4 @@
-# **📈 Looker Studio — Car Sales Dashboard**
+# **📈 Looker Studio **
 
 This folder contains a **Looker Studio dashboard** for an imaginary car sales company, demonstrating data visualization and reporting skills.
 
