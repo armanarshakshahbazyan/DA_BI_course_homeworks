@@ -115,3 +115,16 @@ left join profit on profit.productName = products.productName
 LEFT JOIN employees ON employees.employeeNumber = customers.salesRepEmployeeNumber;
 -- left join name_surname on name_surname.customerNumber = orders.customerNumber
 ;
+
+
+
+SELECT
+o.city AS SalesRepCity,
+c.city AS CustomerCity
+FROM customers AS c
+JOIN employees AS e
+ON c.salesRepEmployeeNumber = e.employeeNumber
+JOIN offices AS o
+ON e.officeCode = o.officeCode
+WHERE c.salesRepEmployeeNumber IS NOT NULL
+ORDER BY o.city, c.city;
