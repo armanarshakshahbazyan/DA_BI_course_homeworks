@@ -28,3 +28,9 @@ WHERE orderdetails.quantityOrdered IS NOT NULL
 GROUP BY products.productCode , products.productName
 ORDER BY QUANTITY ASC
 LIMIT 5;
+
+
+SELECT orders.orderDate,SUM(orderdetails.priceEach*orderdetails.quantityOrdered) AS Total
+FROM orderdetails
+LEFT JOIN orders on orderdetails.orderNumber=orders.orderNumber
+GROUP BY orders.orderDate;
