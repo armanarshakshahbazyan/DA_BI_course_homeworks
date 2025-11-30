@@ -47,3 +47,32 @@ LEFT JOIN customers on customers.salesRepEmployeeNumber=employees.employeeNumber
 LEFT JOIN orders on orders.customerNumber=customers.customerNumber
 LEFT JOIN all_order on all_order.orderNumber=orders.orderNumber
 WHERE all_order.coast &gt; (SELECT AVG(coast) FROM all_order);
+
+
+
+SELECT products.productCode,products.productName,SUM((orderdetails.priceEach -
+products.buyPrice) * orderdetails.quantityOrdered) AS totalProfit
+FROM orderdetails
+JOIN products ON orderdetails.productCode = products.productCode
+GROUP BY products.productCode, products.productName
+ORDER BY totalProfit DESC
+)
+-- name_surname as (
+
+-- select customers.customerNumber,employees.firstName + employees.lastName as anunazg
+
+-- from customers
+
+-- left join employees on employees.employeeNumber = customers.salesRepEmployeeNumber
+-- left join orders on orders.customerNumber = customers.customerNumber
+-- )
+
+select order_info.orderDate,status,products.productName,customerName,city,revenue ,
+profit.totalProfit, customers.salesRepEmployeeNumber
+from order_info
+left join products on products.productCode = order_info.productCode
+left join customers on customers.customerNumber = order_info.customerNumber
+left join profit on profit.productName = products.productName
+
+-- left join name_surname on name_surname.customerNumber = orders.customerNumber
+;
