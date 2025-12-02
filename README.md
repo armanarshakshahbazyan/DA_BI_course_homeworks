@@ -24,7 +24,7 @@ This folder presents a dashboard created in **Looker Studio** for an **imaginary
 
 ---
 
-## **4\. 📑 Dashboards — Classic Models**
+## **4\. 📑 Tableau — Dashboards for Classic Models**
 
 This section includes two dashboards created for the Classic Models company:Product Category Profitability Dashboard and Shipment Management Dashboard
 
