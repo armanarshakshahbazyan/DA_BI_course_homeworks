@@ -17,5 +17,4 @@ This folder contains a **Looker Studio dashboard** for an imaginary car sales co
 * **Looker Studio** – For interactive dashboards and reporting
 
 * **Charts & Visualizations** – Bar, line, and pie charts for insights  
-* 
 
