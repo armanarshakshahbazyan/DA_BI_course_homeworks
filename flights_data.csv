@@ -1,0 +1,101 @@
+Flight Number,Airline,Departure Airport,Arrival Airport,Departure Scheduled,Departure Actual,Arrival Scheduled,Arrival Actual,Status
+OZ568,Asiana Airlines,New Ulaanbaator International Airport,Seoul (Incheon),2025-12-07T00:50:00+00:00,,2025-12-07T05:00:00+00:00,,scheduled
+EY8461,Etihad Airways,New Ulaanbaator International Airport,Seoul (Incheon),2025-12-07T00:50:00+00:00,,2025-12-07T05:00:00+00:00,,scheduled
+JQ217,Jetstar,Melbourne - Tullamarine Airport,Auckland International,2025-12-07T00:35:00+00:00,,2025-12-07T05:39:00+00:00,,scheduled
+QF5537,Qantas,Melbourne - Tullamarine Airport,Auckland International,2025-12-07T00:35:00+00:00,,2025-12-07T05:39:00+00:00,,scheduled
+LA5692,LATAM Airlines,Melbourne - Tullamarine Airport,Auckland International,2025-12-07T00:35:00+00:00,,2025-12-07T05:39:00+00:00,,scheduled
+6E3927,IndiGo,Melbourne - Tullamarine Airport,Auckland International,2025-12-07T00:35:00+00:00,,2025-12-07T05:39:00+00:00,,scheduled
+PR2803,Philippine Airlines,Ninoy Aquino International,Francisco Bangoy International,2025-12-07T01:00:00+00:00,,2025-12-07T02:50:00+00:00,,scheduled
+KE626,Korean Air,Ninoy Aquino International,Seoul (Incheon),2025-12-07T00:55:00+00:00,,2025-12-07T06:00:00+00:00,,scheduled
+GK40,Jetstar Japan,Ninoy Aquino International,Narita International Airport,2025-12-07T00:50:00+00:00,,2025-12-07T06:05:00+00:00,,scheduled
+HT3842,Tianjin Air Cargo,Ninoy Aquino International,Shenzhen,2025-12-07T00:30:00+00:00,,2025-12-07T04:50:00+00:00,,scheduled
+5J186,Cebu Pacific Air,Ninoy Aquino International,Seoul (Incheon),2025-12-07T00:25:00+00:00,,2025-12-07T05:30:00+00:00,,scheduled
+Z2761,Philippines AirAsia,Ninoy Aquino International,Mactan-Cebu International,2025-12-07T00:25:00+00:00,,2025-12-07T01:50:00+00:00,,scheduled
+PR215,Philippine Airlines,Ninoy Aquino International,Jackson Field,2025-12-07T00:20:00+00:00,,2025-12-07T08:05:00+00:00,,scheduled
+PR221,Philippine Airlines,Ninoy Aquino International,Brisbane International,2025-12-07T00:15:00+00:00,,2025-12-07T10:05:00+00:00,,scheduled
+BX762,Air Busan,Kota-Kinabalu International Airport,Gimhae,2025-12-07T00:40:00+00:00,,2025-12-07T06:30:00+00:00,,scheduled
+OZ9262,Asiana Airlines,Kota-Kinabalu International Airport,Gimhae,2025-12-07T00:40:00+00:00,,2025-12-07T06:30:00+00:00,,scheduled
+LJ3564,Jin Air,Kota-Kinabalu International Airport,Gimhae,2025-12-07T00:40:00+00:00,,2025-12-07T06:30:00+00:00,,scheduled
+AK548,AirAsia,Ngurah Rai International,Perth International,2025-12-07T01:00:00+00:00,,2025-12-07T04:40:00+00:00,,scheduled
+MU5030,China Eastern Airlines,Ngurah Rai International,Shanghai Pudong International,2025-12-07T00:55:00+00:00,,2025-12-07T07:10:00+00:00,,scheduled
+GA9300,Garuda Indonesia,Ngurah Rai International,Shanghai Pudong International,2025-12-07T00:55:00+00:00,,2025-12-07T07:10:00+00:00,,scheduled
+GA880,Garuda Indonesia,Ngurah Rai International,Narita International Airport,2025-12-07T00:50:00+00:00,,2025-12-07T08:50:00+00:00,,scheduled
+AM7412,Aeromexico,Ngurah Rai International,Narita International Airport,2025-12-07T00:50:00+00:00,,2025-12-07T08:50:00+00:00,,scheduled
+JL5014,Japan Airlines,Ngurah Rai International,Narita International Airport,2025-12-07T00:50:00+00:00,,2025-12-07T08:50:00+00:00,,scheduled
+GA870,Garuda Indonesia,Ngurah Rai International,Seoul (Incheon),2025-12-07T00:50:00+00:00,,2025-12-07T08:50:00+00:00,,scheduled
+EY8155,Etihad Airways,Ngurah Rai International,Seoul (Incheon),2025-12-07T00:50:00+00:00,,2025-12-07T08:50:00+00:00,,scheduled
+KE5630,Korean Air,Ngurah Rai International,Seoul (Incheon),2025-12-07T00:50:00+00:00,,2025-12-07T08:50:00+00:00,,scheduled
+CZ626,China Southern Airlines,Ngurah Rai International,Guangzhou Baiyun International,2025-12-07T00:40:00+00:00,,2025-12-07T05:50:00+00:00,,scheduled
+QR961,Qatar Airways,Ngurah Rai International,Doha International,2025-12-07T00:30:00+00:00,,2025-12-07T05:10:00+00:00,,scheduled
+IB6287,Iberia,Ngurah Rai International,Doha International,2025-12-07T00:30:00+00:00,,2025-12-07T05:10:00+00:00,,scheduled
+BA6361,British Airways,Ngurah Rai International,Doha International,2025-12-07T00:30:00+00:00,,2025-12-07T05:10:00+00:00,,scheduled
+B66539,JetBlue Airways,Ngurah Rai International,Doha International,2025-12-07T00:30:00+00:00,,2025-12-07T05:10:00+00:00,,scheduled
+AY6672,Finnair,Ngurah Rai International,Doha International,2025-12-07T00:30:00+00:00,,2025-12-07T05:10:00+00:00,,scheduled
+AS5786,AlphaSky,Ngurah Rai International,Doha International,2025-12-07T00:30:00+00:00,,2025-12-07T05:10:00+00:00,,scheduled
+AA8306,American Airlines,Ngurah Rai International,Doha International,2025-12-07T00:30:00+00:00,,2025-12-07T05:10:00+00:00,,scheduled
+VA6397,Virgin Australia,Ngurah Rai International,Doha International,2025-12-07T00:30:00+00:00,,2025-12-07T05:10:00+00:00,,scheduled
+MF892,Xiamen Airlines,Ngurah Rai International,Xiamen,2025-12-07T00:30:00+00:00,,2025-12-07T06:05:00+00:00,,scheduled
+GA9725,Garuda Indonesia,Ngurah Rai International,Xiamen,2025-12-07T00:30:00+00:00,,2025-12-07T06:05:00+00:00,,scheduled
+EK399,Emirates,Ngurah Rai International,Dubai,2025-12-07T00:25:00+00:00,,2025-12-07T05:45:00+00:00,,scheduled
+GA8855,Garuda Indonesia,Ngurah Rai International,Dubai,2025-12-07T00:25:00+00:00,,2025-12-07T05:45:00+00:00,,scheduled
+FZ6399,flydubai,Ngurah Rai International,Dubai,2025-12-07T00:25:00+00:00,,2025-12-07T05:45:00+00:00,,scheduled
+8B84,TransNusa,Ngurah Rai International,Perth International,2025-12-07T00:20:00+00:00,,2025-12-07T04:05:00+00:00,,scheduled
+CF9065,China Postal Airlines,Xiamen,Nanjing Lukou International Airport,2025-12-07T00:40:00+00:00,,2025-12-07T02:30:00+00:00,,scheduled
+VJ3949,VietJet Air,Beijing Daxing International Airport,Tan Son Nhat International,2025-12-07T01:05:00+00:00,,2025-12-07T05:10:00+00:00,,scheduled
+H14283,,Beijing Daxing International Airport,Tan Son Nhat International,2025-12-07T01:05:00+00:00,,2025-12-07T05:10:00+00:00,,scheduled
+SU6622,Aeroflot,Beijing Daxing International Airport,Krasnojarsk,2025-12-07T01:05:00+00:00,,2025-12-07T04:15:00+00:00,,scheduled
+AK1561,AirAsia,Beijing Daxing International Airport,Kota-Kinabalu International Airport,2025-12-07T00:15:00+00:00,,2025-12-07T05:35:00+00:00,,scheduled
+FM832,Shanghai Airlines,Phuket International,Shanghai Pudong International,2025-12-07T00:05:00+00:00,,2025-12-07T05:55:00+00:00,,scheduled
+MU2082,China Eastern Airlines,Phuket International,Xianyang,2025-12-07T00:05:00+00:00,,2025-12-07T05:55:00+00:00,,scheduled
+5J4502,Cebu Pacific Air,Francisco Bangoy International,Mactan-Cebu International,2025-12-07T00:25:00+00:00,,2025-12-07T01:30:00+00:00,,scheduled
+CX6,Cathay Pacific,Hong Kong International,Narita International Airport,2025-12-07T01:05:00+00:00,,2025-12-07T06:15:00+00:00,,scheduled
+RH4568,Hong Kong Air Cargo,Hong Kong International,Taiwan Taoyuan International (Chiang Kai Shek International),2025-12-07T01:00:00+00:00,,2025-12-07T02:50:00+00:00,,scheduled
+CX888,Cathay Pacific,Hong Kong International,Vancouver International,2025-12-07T01:00:00+00:00,,2025-12-06T20:35:00+00:00,,scheduled
+CX872,Cathay Pacific,Hong Kong International,San Francisco International,2025-12-07T01:00:00+00:00,,2025-12-06T21:15:00+00:00,,scheduled
+OM5872,Miat - Mongolian Airlines,Hong Kong International,San Francisco International,2025-12-07T01:00:00+00:00,,2025-12-06T21:15:00+00:00,,scheduled
+MH9198,Malaysia Airlines,Hong Kong International,San Francisco International,2025-12-07T01:00:00+00:00,,2025-12-06T21:15:00+00:00,,scheduled
+AA8930,American Airlines,Hong Kong International,San Francisco International,2025-12-07T01:00:00+00:00,,2025-12-06T21:15:00+00:00,,scheduled
+CX219,Cathay Pacific,Hong Kong International,Manchester Airport,2025-12-07T01:00:00+00:00,,2025-12-07T07:55:00+00:00,,scheduled
+CX233,Cathay Pacific,Hong Kong International,Milano Malpensa,2025-12-07T00:55:00+00:00,,2025-12-07T07:40:00+00:00,,scheduled
+KE2012,Korean Air,Hong Kong International,Seoul (Incheon),2025-12-07T00:55:00+00:00,,2025-12-07T05:20:00+00:00,,scheduled
+WS6036,WestJet,Hong Kong International,Seoul (Incheon),2025-12-07T00:55:00+00:00,,2025-12-07T05:20:00+00:00,,scheduled
+VS5516,Virgin Atlantic,Hong Kong International,Seoul (Incheon),2025-12-07T00:55:00+00:00,,2025-12-07T05:20:00+00:00,,scheduled
+DL7774,Delta Air Lines,Hong Kong International,Seoul (Incheon),2025-12-07T00:55:00+00:00,,2025-12-07T05:20:00+00:00,,scheduled
+CX383,Cathay Pacific,Hong Kong International,Zurich,2025-12-07T00:45:00+00:00,,2025-12-07T07:30:00+00:00,,scheduled
+LX9515,SWISS,Hong Kong International,Zurich,2025-12-07T00:45:00+00:00,,2025-12-07T07:30:00+00:00,,scheduled
+CX315,Cathay Pacific,Hong Kong International,Barajas,2025-12-07T00:40:00+00:00,,2025-12-07T08:30:00+00:00,,scheduled
+IB7897,Iberia,Hong Kong International,Barajas,2025-12-07T00:40:00+00:00,,2025-12-07T08:30:00+00:00,,scheduled
+OZ746,Asiana Airlines,Hong Kong International,Seoul (Incheon),2025-12-07T00:40:00+00:00,,2025-12-07T05:00:00+00:00,,scheduled
+HX1566,Hong Kong Airlines,Hong Kong International,Seoul (Incheon),2025-12-07T00:40:00+00:00,,2025-12-07T05:00:00+00:00,,scheduled
+UA7307,United Airlines,Hong Kong International,Seoul (Incheon),2025-12-07T00:40:00+00:00,,2025-12-07T05:00:00+00:00,,scheduled
+EK381,Emirates,Hong Kong International,Dubai,2025-12-07T00:35:00+00:00,,2025-12-07T05:40:00+00:00,,scheduled
+TP6349,TAP Air Portugal,Hong Kong International,Dubai,2025-12-07T00:35:00+00:00,,2025-12-07T05:40:00+00:00,,scheduled
+CX105,Cathay Pacific,Hong Kong International,Melbourne - Tullamarine Airport,2025-12-07T00:30:00+00:00,,2025-12-07T12:30:00+00:00,,scheduled
+LX9513,SWISS,Hong Kong International,Melbourne - Tullamarine Airport,2025-12-07T00:30:00+00:00,,2025-12-07T12:30:00+00:00,,scheduled
+LH7013,Lufthansa,Hong Kong International,Melbourne - Tullamarine Airport,2025-12-07T00:30:00+00:00,,2025-12-07T12:30:00+00:00,,scheduled
+OM5605,Miat - Mongolian Airlines,Hong Kong International,Melbourne - Tullamarine Airport,2025-12-07T00:30:00+00:00,,2025-12-07T12:30:00+00:00,,scheduled
+BA4567,British Airways,Hong Kong International,Melbourne - Tullamarine Airport,2025-12-07T00:30:00+00:00,,2025-12-07T12:30:00+00:00,,scheduled
+AY5095,Finnair,Hong Kong International,Melbourne - Tullamarine Airport,2025-12-07T00:30:00+00:00,,2025-12-07T12:30:00+00:00,,scheduled
+CX880,Cathay Pacific,Hong Kong International,Los Angeles International,2025-12-07T00:30:00+00:00,,2025-12-06T20:55:00+00:00,,scheduled
+LA6094,LATAM Airlines,Hong Kong International,Los Angeles International,2025-12-07T00:30:00+00:00,,2025-12-06T20:55:00+00:00,,scheduled
+OM5880,Miat - Mongolian Airlines,Hong Kong International,Los Angeles International,2025-12-07T00:30:00+00:00,,2025-12-06T20:55:00+00:00,,scheduled
+MH9190,Malaysia Airlines,Hong Kong International,Los Angeles International,2025-12-07T00:30:00+00:00,,2025-12-06T20:55:00+00:00,,scheduled
+AA8933,American Airlines,Hong Kong International,Los Angeles International,2025-12-07T00:30:00+00:00,,2025-12-06T20:55:00+00:00,,scheduled
+CX749,Cathay Pacific,Hong Kong International,Oliver Reginald Tambo International (Jan Smuts International),2025-12-07T00:30:00+00:00,,2025-12-07T07:25:00+00:00,,scheduled
+LA5632,LATAM Airlines,Hong Kong International,Oliver Reginald Tambo International (Jan Smuts International),2025-12-07T00:30:00+00:00,,2025-12-07T07:25:00+00:00,,scheduled
+JL7901,Japan Airlines,Hong Kong International,Oliver Reginald Tambo International (Jan Smuts International),2025-12-07T00:30:00+00:00,,2025-12-07T07:25:00+00:00,,scheduled
+CX289,Cathay Pacific,Hong Kong International,Frankfurt International Airport,2025-12-07T00:25:00+00:00,,2025-12-07T07:05:00+00:00,,scheduled
+LH7015,Lufthansa,Hong Kong International,Frankfurt International Airport,2025-12-07T00:25:00+00:00,,2025-12-07T07:05:00+00:00,,scheduled
+CX237,Cathay Pacific,Hong Kong International,Heathrow,2025-12-07T00:25:00+00:00,,2025-12-07T07:00:00+00:00,,scheduled
+QR815,Qatar Airways,Hong Kong International,Doha International,2025-12-07T00:25:00+00:00,,2025-12-07T04:45:00+00:00,,scheduled
+AH4909,Air Algerie,Hong Kong International,Doha International,2025-12-07T00:25:00+00:00,,2025-12-07T04:45:00+00:00,,scheduled
+BA2328,British Airways,Hong Kong International,Doha International,2025-12-07T00:25:00+00:00,,2025-12-07T04:45:00+00:00,,scheduled
+B66587,JetBlue Airways,Hong Kong International,Doha International,2025-12-07T00:25:00+00:00,,2025-12-07T04:45:00+00:00,,scheduled
+IB6245,Iberia,Hong Kong International,Doha International,2025-12-07T00:25:00+00:00,,2025-12-07T04:45:00+00:00,,scheduled
+LA7419,LATAM Airlines,Hong Kong International,Doha International,2025-12-07T00:25:00+00:00,,2025-12-07T04:45:00+00:00,,scheduled
+JU8317,Air Serbia,Hong Kong International,Doha International,2025-12-07T00:25:00+00:00,,2025-12-07T04:45:00+00:00,,scheduled
+CX9201,Cathay Pacific,Hong Kong International,Doha International,2025-12-07T00:25:00+00:00,,2025-12-07T04:45:00+00:00,,scheduled
+CX261,Cathay Pacific,Hong Kong International,Charles De Gaulle,2025-12-07T00:25:00+00:00,,2025-12-07T07:35:00+00:00,,scheduled
+CF9101,China Postal Airlines,Tianjin Binhai International,Nanjing Lukou International Airport,2025-12-07T00:25:00+00:00,,2025-12-07T02:15:00+00:00,,scheduled
+O37223,SF Airlines,Hangzhou,Shenzhen,2025-12-07T01:05:00+00:00,,2025-12-07T03:05:00+00:00,,scheduled
+O37120,SF Airlines,Hangzhou,Beijing Capital International,2025-12-07T00:55:00+00:00,,2025-12-07T03:05:00+00:00,,scheduled
