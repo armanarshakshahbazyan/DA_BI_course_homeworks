@@ -1,29 +1,45 @@
-# **📊 Tableau**
+## **📊 Tableau**
 
-This folder contains **Tableau dashboards** created for the Classic Models company, demonstrating data visualization, analytics, and KPI tracking.
+This section contains interactive Tableau dashboards created using the **Classic Models** dataset.  
+ The dashboards focus on **business performance analysis**, **operational KPIs**, and **data storytelling**.
+
+---
 
 ## **📈 Dashboards**
 
 ### **4.1 Product Category Profitability Dashboard**
 
-* **Profitability by Product Line** – Visual analysis of profits
+* **Profitability by Product Line** – Visual analysis of profit across product categories
 
-* **Top-performing Categories** – Identify high-performing products
+* **Top-Performing Categories** – Identification of high-performing product lines
 
-* **Cost, Revenue & Margin** – Breakdown of financial metrics
+* **Cost, Revenue, and Margin Analysis** – Breakdown of key financial metrics to support decision-making
 
-  ### **4.2 Shipment Management Dashboard**
+---
 
-* **Shipping Performance** – Track delivery efficiency
+### **4.2 Shipment Management Dashboard**
 
-* **Delivery Timelines** – Monitor on-time performance
+* **Shipment Volume & Performance** – Tracking total units shipped and total units ordered
 
-* **Order Fulfillment Metrics** – Evaluate operational KPIs
+* **Delivery Status Analysis** – Monitoring delayed, on-time, and early shipments
 
-  ## **🛠 Built With**
+* **Shipment Status Trends** – Analysis of shipment status over time
 
-* **Tableau** – For interactive dashboards and data visualization
+* **Employee Performance** – Comparison of shipment status distribution by sales representative
 
-* **Charts & KPIs** – Bar charts, heatmaps, and performance metrics
+* **Geographic Insights** – Shipment analysis by country with drill-down to city level
 
+* **Operational KPIs** – Delayed Delivery Rate and average shipment metrics
+
+* **Tableau Pulse Integration** – Automated insights for delayed delivery performance
+
+---
+
+## **🛠 Built With**
+
+* **Tableau** – Interactive dashboards and data visualization
+
+* **Tableau Pulse** – Automated KPI insights and performance monitoring
+
+* **Charts & KPIs** – KPI cards, trend charts, distribution charts, and geographic analysis
 
